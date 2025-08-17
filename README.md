@@ -90,7 +90,7 @@ Currently working on additional healthcare ML projects including:
 
 I'm excited to discuss collaboration opportunities on ML healthcare projects!
 
-- **Email:** jakub.dobrzanski@pwr.edu.pl
+- **Email:** jakubdobrzanski@icloud.com
 - **LinkedIn:** [linkedin.com/in/jakub-dobrzanski-261baa228](https://www.linkedin.com/in/jakub-dobrzanski-261baa228/)
 - **GitHub:** [github.com/Doberman12](https://github.com/Doberman12)
 
